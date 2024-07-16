@@ -8,7 +8,7 @@ To increase relevance for water resource management, <b>seasonal meteorological 
 
 Using this toolbox, you can <b>automatically calibrate and validate the model</b>, then <b>generate flow ensembles of ESP and SFFs</b>. Additionally, it allows for <b>assessing the skill of SFFs</b> benchmarked against ESP and <b>visualizing the results</b>.
 
-<img src="util/images/SEAFLOW_module.jpg" width="1050" height="1000">
+<img src="util/images/SEAFLOW_module_f.jpg" width="1050" height="1000">
 
 
 Let's get started by downloading all the Jupyter Notebook files and folders (including util, assessment folders)
