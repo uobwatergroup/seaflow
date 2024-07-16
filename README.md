@@ -8,7 +8,7 @@ This toolbox is developted to simulate SFFs and Ensemble Streamflow Predicition(
 
 Through this toolbox, you can automatically calibrate and validate the model, generate flow ensemble of ESP and SFFs. Additionally, assessing the skill of SFFs benchmarked against ESP and visualising the results are also possible.
 
-<img src="util/images/SEAFLOW_modules.jpg" width="1050" height="850">
+<img src="util/images/SEAFLOW_module.jpg" width="1050" height="850">
 
 
 Let's get started by downloading all the Jupyter Notebook files and folders (including util, assessment folders)
