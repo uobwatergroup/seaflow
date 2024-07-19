@@ -1,6 +1,6 @@
 # SEAFLOW (SEAsonal FLOW forecasts toolbox)
 
-SEAFLOW is designed to <b>generate and assess the skill of seasonal flow forecasts using Tank model and connected to <b>SEAFORM (SEAsonal weather FORcasts Management toolbox, https://github.com/uobwatergroup/seaform)</b>. This toolbox was developed as part of a study <b>published by Lee et al.(2024, https://doi.).</b>
+SEAFLOW is designed to generate and assess the skill of <b>seasonal flow forecasts</b> using the <b>Tank model</b>. It is connected to <b>SEAFORM (SEAsonal weather FORcasts Management toolbox)</b> which provides seasonal weather forecasts required for hydrological modelling (Precipitation, Temperature, PET). This toolbox was developed as part of a study <b>published by Lee et al. (2024, https://doi.org/10.1002/joc.8134).
 
 <img src="util/images/SEAFORM_Modules_ff.jpg" width="1050" height="850">
 
